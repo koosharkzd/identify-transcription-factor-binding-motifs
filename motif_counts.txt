@@ -1,0 +1,214 @@
+Motif                                   Selected_Genes Random_Set_1   Random_Set_2   Random_Set_3   Random_Set_4   Random_Set_5   
+
+AAACCA                                  146            140            127            135            139            140            
+
+AAAG                                    1609           1410           1464           1435           1442           1450           
+
+AATAAA                                  300            243            223            249            259            274            
+
+AATCTGATCG                              0              1              0              1              0              0              
+
+ACATAAAATAAAAAAAGGCA                    0              0              0              0              0              0              
+
+acatgTGTAAAGgtatt                       0              0              0              0              0              0              
+
+acatgTGTAAAGgtgaa                       0              0              0              0              0              0              
+
+ACCGAC                                  55             40             71             59             61             48             
+
+ACCGAGA                                 16             18             11             19             8              16             
+
+ACCTACCAACC                             0              1              0              0              1              0              
+
+ACGCGCCTCCTC                            0              0              0              1              0              0              
+
+ACGTAAGCGCTTACGT                        0              0              0              0              0              0              
+
+ACGTATTAAAA                             0              0              1              0              0              0              
+
+agaggTGTAAATggtac                       0              0              0              0              0              0              
+
+AGCAACGGTC                              0              0              0              0              0              0              
+
+[AG]CCGAC                               117            108            125            132            126            117            
+
+AGGTCA                                  47             48             51             44             47             43             
+
+[AG]TGAGTCAT                            2              1              1              3              4              2              
+
+AGTTGAATGGGGGTGCA                       0              0              0              0              0              0              
+
+ATCCTATCTCATCCATTT                      0              0              0              0              0              0              
+
+ATCGACAGCCATT                           0              0              0              0              0              0              
+
+ATTATATAT                               17             13             17             17             11             14             
+
+CAACCACC                                10             10             9              8              9              8              
+
+CACATGTGTAAAGGT                         0              1              0              0              0              1              
+
+CACGAC                                  78             71             82             74             58             71             
+
+CACGAG[CG]CC[GT]CCAC                    0              0              0              0              0              0              
+
+CACGTC                                  90             69             68             93             60             75             
+
+CACGTG                                  84             88             60             72             52             70             
+
+CACGTT                                  60             47             40             50             40             62             
+
+CACTGGCCGCCC                            0              0              0              0              0              0              
+
+CAGATTTATTTTTA                          0              0              0              0              0              0              
+
+CATGCCGCC                               2              4              1              3              4              1              
+
+CCAAT                                   294            268            226            269            261            272            
+
+CCACGGGG                                3              2              5              3              5              2              
+
+CCACGTGG                                13             11             5              5              7              5              
+
+CCACGTGGC                               6              7              2              1              2              3              
+
+CC[AG]CCC                               187            292            226            282            275            231            
+
+CC[AT]ACC                               114            168            150            156            161            160            
+
+CCCACAGGC                               6              3              2              2              3              2              
+
+CCCCCG                                  69             97             86             83             84             79             
+
+CCCCGG                                  49             60             45             43             45             43             
+
+CC[GA]CCC                               187            292            226            282            275            231            
+
+CCGGTAGTTG                              1              0              0              0              0              0              
+
+CCTCTCCCGTC                             0              1              2              1              0              0              
+
+CGAAACCAGCAACGGTCCAG                    0              0              0              0              0              0              
+
+cGATAAGGCG                              0              0              0              0              0              0              
+
+CGCGCC                                  115            120            131            136            130            102            
+
+CGGTCA                                  43             46             46             41             39             34             
+
+CGTCCATGCAT                             0              1              0              0              0              0              
+
+CGTGCAAGCCCAAAGGCCAATCGGCCCAGA          0              0              0              0              0              0              
+
+CGTGG                                   288            269            240            238            226            228            
+
+CGTGTCGTCCATGCAT                        0              0              0              0              0              0              
+
+CTAAGTAGC                               0              2              0              0              0              1              
+
+CTCCTGATTAGC                            0              0              0              0              0              0              
+
+GAATGGCAGGCAGC                          0              0              0              0              0              0              
+
+GACATGTGGT                              0              0              0              0              0              1              
+
+GACGTGTAAAGTAAATTTACAAC                 0              0              0              0              0              0              
+
+GATAGGG                                 4              14             10             8              8              9              
+
+GATGACATGA                              0              0              1              2              0              0              
+
+GATGACATGG                              1              1              3              0              0              1              
+
+GATGA[CT][AG]TG[AG]                     2              3              8              4              3              5              
+
+GATGA[CT][AG]TGG                        2              2              4              2              1              4              
+
+GATGATATGG                              1              0              0              1              1              1              
+
+GATGATGTGG                              0              0              0              1              0              2              
+
+GATGGAAGTGGCA                           0              0              0              0              0              0              
+
+GCAACGCAAC                              0              0              3              0              2              0              
+
+GCACCAATGGCATCCAAGC                     0              0              0              0              0              0              
+
+GCATTC                                  51             53             58             52             51             46             
+
+GCCACCTCAT                              1              1              0              1              0              1              
+
+GCCACGTGGG                              5              0              1              1              0              1              
+
+GCCCCGG                                 19             20             20             14             19             12             
+
+GCTGCCCGTC                              0              1              0              0              1              0              
+
+gGATAAGGTG                              0              0              0              0              0              0              
+
+GGCAGGTGC                               0              1              1              3              1              2              
+
+GTCCAACTGACCTAACCCGG                    0              0              0              0              0              0              
+
+GTGCCC[AT][AT]                          13             22             13             14             18             17             
+
+GTGCCCTT                                2              5              7              2              4              4              
+
+GTGGCCAC                                6              1              13             5              4              6              
+
+GTGGGCCCG                               5              3              2              2              4              1              
+
+GTTAGGTT                                4              5              4              2              5              2              
+
+GTTGAATGGAGGATGC                        0              0              0              0              0              0              
+
+GTTGACGTGA                              0              0              0              1              0              0              
+
+TAACT[CG]AGTTA                          0              0              0              0              0              0              
+
+TAACTG                                  40             42             56             49             56             54             
+
+tacggTGCCCTTgGTAGAAcaacatccttatccctata  0              0              0              0              0              0              
+
+TAGGAGCAGCT                             0              0              0              0              0              0              
+
+taTAAATATct                             0              0              0              0              0              0              
+
+TATAAGAA                                8              4              6              10             6              9              
+
+TATATAT                                 156            148            197            190            174            204            
+
+TCCAAGTATA                              0              0              0              2              0              2              
+
+TCCACATAGA                              1              1              0              0              0              2              
+
+TCCACGTAGA                              0              0              0              0              0              2              
+
+TCCACGTCTC                              0              0              0              2              0              1              
+
+TCCATGCAT                               2              7              2              4              3              3              
+
+TCCATGCATGCAC                           0              0              0              0              0              0              
+
+TCGGCCACTATTTCTACGGGCAGCCAGACAAA        0              0              0              0              0              0              
+
+tgacaTGTAAAGttgat                       0              0              0              0              0              0              
+
+tgacgTGTAAAGtaaat                       0              0              0              0              0              0              
+
+TGAGTCA                                 13             11             10             10             10             6              
+
+tgCAAATtc                               0              0              0              0              0              0              
+
+TGCAACGCAACATTCCAAAACCAT                0              0              0              0              0              0              
+
+TGCTATCCG                               0              0              0              0              0              1              
+
+TGGTTT                                  103            100            119            107            106            104            
+
+TGTAAAG                                 15             12             18             15             23             20             
+
+TTTAAAAA                                68             64             43             44             43             40             
+
+TTTATATA                                38             29             38             41             43             26             
+
